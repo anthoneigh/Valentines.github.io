@@ -1,0 +1,29 @@
+body{
+    background: rgb(245, 227, 255);
+}
+div{
+    width: 300px;
+    height: 300px;
+    position: absolute;
+    margin: auto;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    background: rgb(229, 184, 255);
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+button{
+    color: rgb(229, 184, 255), 184, 255;
+    background: rgb(213, 255, 249); 
+    border: none;
+}
+#move{
+    position: relative;
+}
+
+#img{
+    width: 200px;
+    height: 200px;
+}
